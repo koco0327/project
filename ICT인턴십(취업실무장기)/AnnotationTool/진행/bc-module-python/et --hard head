@@ -1,0 +1,174 @@
+[33mcommit af4484cfa12c228b2662b6b859e20f559cb0c64a[m[33m ([m[1;36mHEAD -> [m[1;32mfeature/lhj-0005[m[33m, [m[1;31morigin/feature/lhj-0005[m[33m)[m
+Merge: 3a3e2a6 5e4b7c9
+Author: Lee Hyeonjung <lhj990502@naver.com>
+Date:   Tue Jun 20 10:08:50 2023 +0900
+
+    cuboid 확대 축소 및 이동
+
+[33mcommit 3a3e2a694fdc73c5401233754791902f9c834b90[m
+Author: Lee Hyeonjung <lhj990502@naver.com>
+Date:   Mon Jun 19 17:45:01 2023 +0900
+
+    seg 이동시 클릭 seg 추가 현상 수정
+
+[33mcommit 3ebe0d85e3137c51f5d1a8fed3fea335eee3735d[m
+Merge: d86566d aa2ca06
+Author: Lee Hyeonjung <lhj990502@naver.com>
+Date:   Mon Jun 19 10:20:13 2023 +0900
+
+    Merge remote-tracking branch 'origin/feature/lhj-0004' into feature/lhj-0005
+    
+    # Conflicts:
+    #       bc-module-python
+    #       controller/BtnController.py
+    #       controller/ToolController.py
+    #       model/Hotkey.py
+    #       model/Label.py
+    #       model/Load.py
+    #       model/ToolModel.py
+    #       view/NewWindowView.py
+    #       view/WorkerView.py
+
+[33mcommit d86566d940328a05cd835092c2454a236e3575fe[m
+Author: Lee Hyeonjung <lhj990502@naver.com>
+Date:   Mon Jun 19 09:09:36 2023 +0900
+
+    seg,bbox 수정
+
+[33mcommit e36fd9c51a872ba21005404eafce1c97a40ed2f2[m
+Author: Lee Hyeonjung <lhj990502@naver.com>
+Date:   Tue Jun 13 17:51:48 2023 +0900
+
+    bbox, seg  수정
+
+[33mcommit 3f52bb0e2e778adde5b475b266e24617326c8cb0[m
+Author: Lee Hyeonjung <lhj990502@naver.com>
+Date:   Tue Jun 13 17:47:14 2023 +0900
+
+    seg 수정
+
+[33mcommit 01eb47cfe18469199a56dad66228e3b4e5f32d13[m
+Author: Lee Hyeonjung <lhj990502@naver.com>
+Date:   Tue Jun 13 13:54:12 2023 +0900
+
+    bbox,seg
+
+[33mcommit 551c3ba6debd3cea74b2058c8411dff7faafbb70[m
+Author: Lee Hyeonjung <lhj990502@naver.com>
+Date:   Tue Jun 13 13:49:52 2023 +0900
+
+    bbox,seg
+
+[33mcommit 3914040fefc155cae2141375ad1bae2dc83aabfd[m
+Author: Lee Hyeonjung <lhj990502@naver.com>
+Date:   Tue Jun 13 13:17:41 2023 +0900
+
+    bbox, seg 수정
+
+[33mcommit ebc74028371f02725bf3107a2606d29501a20149[m
+Author: Lee Hyeonjung <lhj990502@naver.com>
+Date:   Tue Jun 13 13:13:19 2023 +0900
+
+    seg,bbox 수정
+
+[33mcommit 7d687ea853bd9ccaa6a3ee0dc18d62f960fca1fd[m
+Author: Lee Hyeonjung <lhj990502@naver.com>
+Date:   Tue Jun 13 11:41:36 2023 +0900
+
+    seg,bbox
+
+[33mcommit 2909f2dde9ba6d640218aee53010dd594657a784[m
+Author: Lee Hyeonjung <lhj990502@naver.com>
+Date:   Tue Jun 13 11:23:59 2023 +0900
+
+    bbox, seg 수정
+
+[33mcommit c684b253b08022938129525cd7e7c890423182a0[m
+Author: Lee Hyeonjung <lhj990502@naver.com>
+Date:   Tue Jun 13 11:13:18 2023 +0900
+
+    bbox,seg 수정
+
+[33mcommit 0168067533c986cadef52292ee04ff419b54f803[m
+Author: Lee Hyeonjung <lhj990502@naver.com>
+Date:   Tue Jun 13 11:02:45 2023 +0900
+
+    bbox,seg 수정
+
+[33mcommit 5e4b7c9a846d230c451cd48e1458b6e029a96d85[m
+Author: Lee Hyeonjung <lhj990502@naver.com>
+Date:   Mon Jun 19 09:09:36 2023 +0900
+
+    seg,bbox 수정
+
+[33mcommit aa2ca06ad4ea605cd6ef2de16f5f39106daaadff[m[33m ([m[1;31morigin/feature/lhj-0004[m[33m)[m
+Author: Lee Hyeonjung <lhj990502@naver.com>
+Date:   Tue Jun 13 17:51:48 2023 +0900
+
+    bbox, seg  수정
+
+[33mcommit fac28673aff4eb67aea19be4d14538fdce90c561[m
+Author: Lee Hyeonjung <lhj990502@naver.com>
+Date:   Tue Jun 13 17:47:14 2023 +0900
+
+    seg 수정
+
+[33mcommit f18eb806b9dfe0a7d4871f6faa0e769fa00266d5[m
+Author: Lee Hyeonjung <lhj990502@naver.com>
+Date:   Tue Jun 13 13:54:12 2023 +0900
+
+    bbox,seg
+
+[33mcommit 1027d3df663676cd8d3bf551167a848bf63b188e[m
+Author: Lee Hyeonjung <lhj990502@naver.com>
+Date:   Tue Jun 13 13:49:52 2023 +0900
+
+    bbox,seg
+
+[33mcommit a0ea087f3966481cacf9908a36ba5e60d1e62ba8[m
+Author: Lee Hyeonjung <lhj990502@naver.com>
+Date:   Tue Jun 13 13:17:41 2023 +0900
+
+    bbox, seg 수정
+
+[33mcommit 276faa511a89b1f3a78bcb33a6be012c891b249e[m
+Author: Lee Hyeonjung <lhj990502@naver.com>
+Date:   Tue Jun 13 13:13:19 2023 +0900
+
+    seg,bbox 수정
+
+[33mcommit f93b2e9f7dcaa825458a5898ffec33d0600b2974[m
+Author: Lee Hyeonjung <lhj990502@naver.com>
+Date:   Tue Jun 13 11:41:36 2023 +0900
+
+    seg,bbox
+
+[33mcommit 30720d516bf0480267a22b1c45f6b3e817315391[m
+Author: Lee Hyeonjung <lhj990502@naver.com>
+Date:   Tue Jun 13 11:23:59 2023 +0900
+
+    bbox, seg 수정
+
+[33mcommit d78084db66f19b0bba5e2aa7628e726161afcd0f[m
+Author: Lee Hyeonjung <lhj990502@naver.com>
+Date:   Tue Jun 13 11:13:18 2023 +0900
+
+    bbox,seg 수정
+
+[33mcommit 12a28afaaec2e306b1fca48d84bd4c4fa947062c[m
+Author: Lee Hyeonjung <lhj990502@naver.com>
+Date:   Tue Jun 13 11:02:45 2023 +0900
+
+    bbox,seg 수정
+
+[33mcommit 943b02cdb376d552a4d6013e859edb534777d8fd[m
+Author: Lee Hyeonjung <lhj990502@naver.com>
+Date:   Tue Jun 13 11:00:29 2023 +0900
+
+    bbox, seg 수정
+
+[33mcommit 859ff2bbccd53578bb82ff40bd2f7580e4f84cf8[m
+Author: Lee Hyeonjung <lhj990502@naver.com>
+Date:   Tue Jun 13 10:12:20 2023 +0900
+
+    seg 수정
